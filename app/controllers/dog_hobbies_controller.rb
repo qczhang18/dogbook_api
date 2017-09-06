@@ -1,0 +1,2 @@
+class DogHobbiesController < ApplicationController
+end

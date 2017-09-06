@@ -1,0 +1,2 @@
+class DogHobby < ApplicationRecord
+end
